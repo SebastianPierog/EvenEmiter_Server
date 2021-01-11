@@ -1,0 +1,9 @@
+{
+  "name": "even-emiter_server",
+  "version": "0.0.0",
+  "description": "EvenEmiter_Server",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
